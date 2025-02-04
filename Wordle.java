@@ -7560,4 +7560,3 @@ public class Wordle extends Applet
       paint(g);
    }    
 } 
-
